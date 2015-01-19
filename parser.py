@@ -7,6 +7,24 @@ import re
 
 tdStart,tdEnd = makeHTMLTags("td")
 td = tdStart + SkipTo(tdEnd).setResultsName("data") + tdEnd
+
+dict_ruts_op={61808000: "aguas_andinas",
+99542570: "aguas_chañar",
+99540870: "aguas_antofagasta",
+99541380: "aguas_valle",
+99501280: "aguas_patagonia",
+96963440: "nuevo_sur",
+76215634: "aguas_altiplano",
+76741450: "tratacal",
+76215637: "aguas_araucania",
+76215628: "aguas_magallanes",
+96579330: "essbio",
+76833300: "essbio",
+89900400: "esval",
+76000739: "esval",
+96579800: "essal"}
+dict_informe = {1 : "situacion_financiera",2 : "resultado"}
+
 def procesar(table, nombre):
         workbook=xlsxwriter.Workbook(nombre+".xlsx")
         worksheet=workbook.add_worksheet()
@@ -43,8 +61,7 @@ ini = url.find("mm=")+3
 mes = url[ini:ini+2]
 ini = url.find("rut=")+4
 rut = url[ini:ini+8]
-nombre_archivo = rut+"_"+mes+"_"+anio
-print nombre_archivo
+#nombre_archivo = dict_ruts_op[int(rut)]+"_"+mes+"_"+anios
 
 page = urllib2.urlopen(url)
 soup=BeautifulSoup(page)
@@ -52,6 +69,8 @@ soup_tables=soup.findAll("table",limit=4)
 c=0
 for table in soup_tables:
 	c+=1
+        nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
+        print nombre_archivo
 	procesar(table, nombre_archivo)
 	if(c==2):
 		break
