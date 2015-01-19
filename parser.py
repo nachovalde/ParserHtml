@@ -4,6 +4,7 @@ import urllib2
 import xlsxwriter
 from pyparsing import *
 import re
+import sys
 
 tdStart,tdEnd = makeHTMLTags("td")
 td = tdStart + SkipTo(tdEnd).setResultsName("data") + tdEnd
@@ -52,25 +53,29 @@ def procesar(table, nombre):
                 else:
                         sirve = True
         workbook.close()
+def main(argv):
+        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=12&aa=2013&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
+        #Obtencion de datos del archivo(anio, mes y rut operador)
+        ini = url.find("aa=")+3
+        anio = url[ini:ini+4]
+        ini = url.find("mm=")+3
+        mes = url[ini:ini+2]
+        ini = url.find("rut=")+4
+        rut = url[ini:ini+8]
+        #nombre_archivo = dict_ruts_op[int(rut)]+"_"+mes+"_"+anios
 
-url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=12&aa=2013&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
-#Obtencion de datos del archivo(anio, mes y rut operador)
-ini = url.find("aa=")+3
-anio = url[ini:ini+4]
-ini = url.find("mm=")+3
-mes = url[ini:ini+2]
-ini = url.find("rut=")+4
-rut = url[ini:ini+8]
-#nombre_archivo = dict_ruts_op[int(rut)]+"_"+mes+"_"+anios
+        page = urllib2.urlopen(url)
+        soup=BeautifulSoup(page)
+        soup_tables=soup.findAll("table",limit=4)
+        c=0
+        for table in soup_tables:
+                c+=1
+                nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
+                print nombre_archivo
+                procesar(table, nombre_archivo)
+                if(c==2):
+                        break
 
-page = urllib2.urlopen(url)
-soup=BeautifulSoup(page)
-soup_tables=soup.findAll("table",limit=4)
-c=0
-for table in soup_tables:
-	c+=1
-        nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
-        print nombre_archivo
-	procesar(table, nombre_archivo)
-	if(c==2):
-		break
+
+if __name__ == "__main__":
+   main(sys.argv[1:])
