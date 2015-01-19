@@ -1,22 +1,25 @@
 from bs4 import BeautifulSoup
 import urllib2
+import xlsxwriter
 from pyparsing import *
 
 tdStart,tdEnd = makeHTMLTags("td")
 td = tdStart + SkipTo(tdEnd).setResultsName("data") + tdEnd
 def procesar(table, cantidad):
-        file=open("tabla" + str(cantidad) + ".txt","w")
+        file=open("tabla" + str(cantidad) + ".xlsx","w")
         rows=table.findAll("tr")
         table=[]
         for row in rows:
         	cols=row.findAll("td")
         	row=[]
         	for col in cols:
+        		#print col.text
         		for tokens,start,end in td.scanString(str(col)):
-        			row.append(tokens.data)
-        	table.append(row)
-        for row in table:
-        	file.write(" ".join(row))
+        			row.append(tokens.data.strip())
+        			#file.write(tokens.data.strip()+"\n")
+        	file.write(";".join(row)+"\n")
+        #for row in table:
+        	#file.write(" ".join(row))
         file.close()
 
 
