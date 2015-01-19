@@ -1,0 +1,337 @@
+[<td class="nivel2 fondoOscuro" colspan="3"> <strong>Activos [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Activos corrientes [sinopsis] </strong> </td>, <td class="nivel6 ">Efectivo y equivalentes al efectivo	</td>, <td class="derecha">	  
+		38.658.981
+			        
+    </td>, <td class="derecha">	  
+		35.644.437
+			        
+    </td>, <td class="nivel6 ">Otros activos financieros corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otros activos no financieros corrientes	</td>, <td class="derecha">	  
+		232.245
+			        
+    </td>, <td class="derecha">	  
+		1.768.870
+			        
+    </td>, <td class="nivel6 ">Deudores comerciales y otras cuentas por cobrar corrientes	</td>, <td class="derecha">	  
+		87.948.143
+			        
+    </td>, <td class="derecha">	  
+		78.138.154
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar a entidades relacionadas, corrientes	</td>, <td class="derecha">	  
+		38.941
+			        
+    </td>, <td class="derecha">	  
+		8.215
+			        
+    </td>, <td class="nivel6 ">Inventarios corrientes	</td>, <td class="derecha">	  
+		3.608.089
+			        
+    </td>, <td class="derecha">	  
+		4.383.030
+			        
+    </td>, <td class="nivel6 ">Activos biológicos corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos corrientes, corrientes	</td>, <td class="derecha">	  
+		2.485.108
+			        
+    </td>, <td class="derecha">	  
+		1.340.037
+			        
+    </td>, <td class="nivel6 ">Total de activos corrientes distintos de los activo o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios	</td>, <td class="derecha">	  
+		132.971.507
+			        
+    </td>, <td class="derecha">	  
+		121.282.743
+			        
+    </td>, <td class="nivel6 ">Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos corrientes totales	</td>, <td class="derecha">	  
+		132.971.507
+			        
+    </td>, <td class="derecha">	  
+		121.282.743
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Activos no corrientes [sinopsis] </strong> </td>, <td class="nivel6 ">Otros activos financieros no corrientes	</td>, <td class="derecha">	  
+		7.413.197
+			        
+    </td>, <td class="derecha">	  
+		7.367.236
+			        
+    </td>, <td class="nivel6 ">Otros activos no financieros no corrientes	</td>, <td class="derecha">	  
+		420.067
+			        
+    </td>, <td class="derecha">	  
+		408.949
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar no corrientes	</td>, <td class="derecha">	  
+		1.879.762
+			        
+    </td>, <td class="derecha">	  
+		3.035.747
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar a entidades relacionadas, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Inventarios, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Inversiones contabilizadas utilizando el método de la participación	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos intangibles distintos de la plusvalía	</td>, <td class="derecha">	  
+		227.347.269
+			        
+    </td>, <td class="derecha">	  
+		225.272.517
+			        
+    </td>, <td class="nivel6 ">Plusvalía	</td>, <td class="derecha">	  
+		36.233.012
+			        
+    </td>, <td class="derecha">	  
+		36.233.012
+			        
+    </td>, <td class="nivel6 ">Propiedades, planta y equipo	</td>, <td class="derecha">	  
+		1.171.182.828
+			        
+    </td>, <td class="derecha">	  
+		1.152.300.877
+			        
+    </td>, <td class="nivel6 ">Activos biológicos no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Propiedad de inversión	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos corrientes, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos diferidos	</td>, <td class="derecha">	  
+		263.122
+			        
+    </td>, <td class="derecha">	  
+		324.398
+			        
+    </td>, <td class="nivel6 ">Total de activos no corrientes	</td>, <td class="derecha">	  
+		1.444.739.257
+			        
+    </td>, <td class="derecha">	  
+		1.424.942.736
+			        
+    </td>, <td class="nivel4 ">Total de activos	</td>, <td class="derecha">	  
+		1.577.710.764
+			        
+    </td>, <td class="derecha">	  
+		1.546.225.479
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Patrimonio y pasivos [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Pasivos [sinopsis] </strong> </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Pasivos corrientes [sinopsis] </strong> </td>, <td class="nivel8 ">Otros pasivos financieros corrientes	</td>, <td class="derecha">	  
+		93.620.208
+			        
+    </td>, <td class="derecha">	  
+		56.804.996
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar comerciales y otras cuentas por pagar	</td>, <td class="derecha">	  
+		90.032.192
+			        
+    </td>, <td class="derecha">	  
+		74.682.140
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar a entidades relacionadas, corrientes	</td>, <td class="derecha">	  
+		29.985.286
+			        
+    </td>, <td class="derecha">	  
+		27.662.460
+			        
+    </td>, <td class="nivel8 ">Otras provisiones a corto plazo	</td>, <td class="derecha">	  
+		918.556
+			        
+    </td>, <td class="derecha">	  
+		1.331.679
+			        
+    </td>, <td class="nivel8 ">Pasivos por impuestos corrientes, corrientes	</td>, <td class="derecha">	  
+		59.151
+			        
+    </td>, <td class="derecha">	  
+		1.422.685
+			        
+    </td>, <td class="nivel8 ">Provisiones corrientes por beneficios a los empleados	</td>, <td class="derecha">	  
+		4.198.437
+			        
+    </td>, <td class="derecha">	  
+		2.906.724
+			        
+    </td>, <td class="nivel8 ">Otros pasivos no financieros corrientes	</td>, <td class="derecha">	  
+		1.381.524
+			        
+    </td>, <td class="derecha">	  
+		1.941.637
+			        
+    </td>, <td class="nivel8 ">Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta	</td>, <td class="derecha">	  
+		220.195.354
+			        
+    </td>, <td class="derecha">	  
+		166.752.321
+			        
+    </td>, <td class="nivel8 ">Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Pasivos corrientes totales	</td>, <td class="derecha">	  
+		220.195.354
+			        
+    </td>, <td class="derecha">	  
+		166.752.321
+			        
+    </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Pasivos no corrientes [sinopsis] </strong> </td>, <td class="nivel8 ">Otros pasivos financieros no corrientes	</td>, <td class="derecha">	  
+		626.272.073
+			        
+    </td>, <td class="derecha">	  
+		637.349.551
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar no corrientes	</td>, <td class="derecha">	  
+		1.862.609
+			        
+    </td>, <td class="derecha">	  
+		1.498.799
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar a entidades relacionadas, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otras provisiones a largo plazo	</td>, <td class="derecha">	  
+		1.118.746
+			        
+    </td>, <td class="derecha">	  
+		1.094.239
+			        
+    </td>, <td class="nivel8 ">Pasivo por impuestos diferidos	</td>, <td class="derecha">	  
+		34.162.915
+			        
+    </td>, <td class="derecha">	  
+		37.557.315
+			        
+    </td>, <td class="nivel8 ">Pasivos por impuestos corrientes, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Provisiones no corrientes por beneficios a los empleados	</td>, <td class="derecha">	  
+		8.542.371
+			        
+    </td>, <td class="derecha">	  
+		8.677.001
+			        
+    </td>, <td class="nivel8 ">Otros pasivos no financieros no corrientes	</td>, <td class="derecha">	  
+		7.888.046
+			        
+    </td>, <td class="derecha">	  
+		9.043.975
+			        
+    </td>, <td class="nivel8 ">Total de pasivos no corrientes	</td>, <td class="derecha">	  
+		679.846.760
+			        
+    </td>, <td class="derecha">	  
+		695.220.880
+			        
+    </td>, <td class="nivel6 ">Total de pasivos	</td>, <td class="derecha">	  
+		900.042.114
+			        
+    </td>, <td class="derecha">	  
+		861.973.201
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Patrimonio [sinopsis] </strong> </td>, <td class="nivel6 ">Capital emitido	</td>, <td class="derecha">	  
+		155.567.354
+			        
+    </td>, <td class="derecha">	  
+		155.567.354
+			        
+    </td>, <td class="nivel6 ">Ganancias (pérdidas) acumuladas	</td>, <td class="derecha">	  
+		302.875.246
+			        
+    </td>, <td class="derecha">	  
+		308.088.569
+			        
+    </td>, <td class="nivel6 ">Prima de emisión	</td>, <td class="derecha">	  
+		164.064.038
+			        
+    </td>, <td class="derecha">	  
+		164.064.038
+			        
+    </td>, <td class="nivel6 ">Acciones propias en cartera	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otras participaciones en el patrimonio	</td>, <td class="derecha">	  
+		-5.965.550
+			        
+    </td>, <td class="derecha">	  
+		-5.965.550
+			        
+    </td>, <td class="nivel6 ">Otras reservas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Patrimonio atribuible a los propietarios de la controladora	</td>, <td class="derecha">	  
+		616.541.088
+			        
+    </td>, <td class="derecha">	  
+		621.754.411
+			        
+    </td>, <td class="nivel6 ">Participaciones no controladoras	</td>, <td class="derecha">	  
+		61.127.562
+			        
+    </td>, <td class="derecha">	  
+		62.497.867
+			        
+    </td>, <td class="nivel6 ">Patrimonio total	</td>, <td class="derecha">	  
+		677.668.650
+			        
+    </td>, <td class="derecha">	  
+		684.252.278
+			        
+    </td>, <td class="nivel4 ">Total de patrimonio y pasivos	</td>, <td class="derecha">	  
+		1.577.710.764
+			        
+    </td>, <td class="derecha">	  
+		1.546.225.479
+			        
+    </td>]
