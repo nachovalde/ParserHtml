@@ -23,8 +23,11 @@ def procesar(table, cantidad):
                         cols=row.findAll("td")
                         for col in cols:
                                 for tokens,start,end in td.scanString(str(col)):
-                                        row.append(tokens.data.strip())
-                                        worksheet.write(rown,coln,tokens.data.decode('utf-8').strip())
+                                		data=tokens.data.decode('utf-8').strip()
+                                		if(data.startswith("<strong>")):
+                                			data=data.replace("<strong>","")
+                                			data=data.replace("</strong>","")
+                                		worksheet.write(rown,coln,data)
                                 coln+=1
                         rown+=1
                         coln=0
@@ -40,7 +43,8 @@ c=0
 for table in soup_tables:
 	c+=1
 	procesar(table, c)
-	break
+	if(c==2):
+		break
 '''
 file=open("html.txt","w")
 file.write(str(soup_tables))
