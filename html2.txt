@@ -1,0 +1,1195 @@
+[<td class="nivel2 fondoOscuro" colspan="3"> <strong>Activos [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Activos corrientes [sinopsis] </strong> </td>, <td class="nivel6 ">Efectivo y equivalentes al efectivo	</td>, <td class="derecha">	  
+		38.658.981
+			        
+    </td>, <td class="derecha">	  
+		35.644.437
+			        
+    </td>, <td class="nivel6 ">Otros activos financieros corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otros activos no financieros corrientes	</td>, <td class="derecha">	  
+		232.245
+			        
+    </td>, <td class="derecha">	  
+		1.768.870
+			        
+    </td>, <td class="nivel6 ">Deudores comerciales y otras cuentas por cobrar corrientes	</td>, <td class="derecha">	  
+		87.948.143
+			        
+    </td>, <td class="derecha">	  
+		78.138.154
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar a entidades relacionadas, corrientes	</td>, <td class="derecha">	  
+		38.941
+			        
+    </td>, <td class="derecha">	  
+		8.215
+			        
+    </td>, <td class="nivel6 ">Inventarios corrientes	</td>, <td class="derecha">	  
+		3.608.089
+			        
+    </td>, <td class="derecha">	  
+		4.383.030
+			        
+    </td>, <td class="nivel6 ">Activos biológicos corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos corrientes, corrientes	</td>, <td class="derecha">	  
+		2.485.108
+			        
+    </td>, <td class="derecha">	  
+		1.340.037
+			        
+    </td>, <td class="nivel6 ">Total de activos corrientes distintos de los activo o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios	</td>, <td class="derecha">	  
+		132.971.507
+			        
+    </td>, <td class="derecha">	  
+		121.282.743
+			        
+    </td>, <td class="nivel6 ">Activos no corrientes o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos corrientes totales	</td>, <td class="derecha">	  
+		132.971.507
+			        
+    </td>, <td class="derecha">	  
+		121.282.743
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Activos no corrientes [sinopsis] </strong> </td>, <td class="nivel6 ">Otros activos financieros no corrientes	</td>, <td class="derecha">	  
+		7.413.197
+			        
+    </td>, <td class="derecha">	  
+		7.367.236
+			        
+    </td>, <td class="nivel6 ">Otros activos no financieros no corrientes	</td>, <td class="derecha">	  
+		420.067
+			        
+    </td>, <td class="derecha">	  
+		408.949
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar no corrientes	</td>, <td class="derecha">	  
+		1.879.762
+			        
+    </td>, <td class="derecha">	  
+		3.035.747
+			        
+    </td>, <td class="nivel6 ">Cuentas por cobrar a entidades relacionadas, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Inventarios, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Inversiones contabilizadas utilizando el método de la participación	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos intangibles distintos de la plusvalía	</td>, <td class="derecha">	  
+		227.347.269
+			        
+    </td>, <td class="derecha">	  
+		225.272.517
+			        
+    </td>, <td class="nivel6 ">Plusvalía	</td>, <td class="derecha">	  
+		36.233.012
+			        
+    </td>, <td class="derecha">	  
+		36.233.012
+			        
+    </td>, <td class="nivel6 ">Propiedades, planta y equipo	</td>, <td class="derecha">	  
+		1.171.182.828
+			        
+    </td>, <td class="derecha">	  
+		1.152.300.877
+			        
+    </td>, <td class="nivel6 ">Activos biológicos no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Propiedad de inversión	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos corrientes, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Activos por impuestos diferidos	</td>, <td class="derecha">	  
+		263.122
+			        
+    </td>, <td class="derecha">	  
+		324.398
+			        
+    </td>, <td class="nivel6 ">Total de activos no corrientes	</td>, <td class="derecha">	  
+		1.444.739.257
+			        
+    </td>, <td class="derecha">	  
+		1.424.942.736
+			        
+    </td>, <td class="nivel4 ">Total de activos	</td>, <td class="derecha">	  
+		1.577.710.764
+			        
+    </td>, <td class="derecha">	  
+		1.546.225.479
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Patrimonio y pasivos [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Pasivos [sinopsis] </strong> </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Pasivos corrientes [sinopsis] </strong> </td>, <td class="nivel8 ">Otros pasivos financieros corrientes	</td>, <td class="derecha">	  
+		93.620.208
+			        
+    </td>, <td class="derecha">	  
+		56.804.996
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar comerciales y otras cuentas por pagar	</td>, <td class="derecha">	  
+		90.032.192
+			        
+    </td>, <td class="derecha">	  
+		74.682.140
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar a entidades relacionadas, corrientes	</td>, <td class="derecha">	  
+		29.985.286
+			        
+    </td>, <td class="derecha">	  
+		27.662.460
+			        
+    </td>, <td class="nivel8 ">Otras provisiones a corto plazo	</td>, <td class="derecha">	  
+		918.556
+			        
+    </td>, <td class="derecha">	  
+		1.331.679
+			        
+    </td>, <td class="nivel8 ">Pasivos por impuestos corrientes, corrientes	</td>, <td class="derecha">	  
+		59.151
+			        
+    </td>, <td class="derecha">	  
+		1.422.685
+			        
+    </td>, <td class="nivel8 ">Provisiones corrientes por beneficios a los empleados	</td>, <td class="derecha">	  
+		4.198.437
+			        
+    </td>, <td class="derecha">	  
+		2.906.724
+			        
+    </td>, <td class="nivel8 ">Otros pasivos no financieros corrientes	</td>, <td class="derecha">	  
+		1.381.524
+			        
+    </td>, <td class="derecha">	  
+		1.941.637
+			        
+    </td>, <td class="nivel8 ">Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta	</td>, <td class="derecha">	  
+		220.195.354
+			        
+    </td>, <td class="derecha">	  
+		166.752.321
+			        
+    </td>, <td class="nivel8 ">Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Pasivos corrientes totales	</td>, <td class="derecha">	  
+		220.195.354
+			        
+    </td>, <td class="derecha">	  
+		166.752.321
+			        
+    </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Pasivos no corrientes [sinopsis] </strong> </td>, <td class="nivel8 ">Otros pasivos financieros no corrientes	</td>, <td class="derecha">	  
+		626.272.073
+			        
+    </td>, <td class="derecha">	  
+		637.349.551
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar no corrientes	</td>, <td class="derecha">	  
+		1.862.609
+			        
+    </td>, <td class="derecha">	  
+		1.498.799
+			        
+    </td>, <td class="nivel8 ">Cuentas por pagar a entidades relacionadas, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otras provisiones a largo plazo	</td>, <td class="derecha">	  
+		1.118.746
+			        
+    </td>, <td class="derecha">	  
+		1.094.239
+			        
+    </td>, <td class="nivel8 ">Pasivo por impuestos diferidos	</td>, <td class="derecha">	  
+		34.162.915
+			        
+    </td>, <td class="derecha">	  
+		37.557.315
+			        
+    </td>, <td class="nivel8 ">Pasivos por impuestos corrientes, no corrientes	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Provisiones no corrientes por beneficios a los empleados	</td>, <td class="derecha">	  
+		8.542.371
+			        
+    </td>, <td class="derecha">	  
+		8.677.001
+			        
+    </td>, <td class="nivel8 ">Otros pasivos no financieros no corrientes	</td>, <td class="derecha">	  
+		7.888.046
+			        
+    </td>, <td class="derecha">	  
+		9.043.975
+			        
+    </td>, <td class="nivel8 ">Total de pasivos no corrientes	</td>, <td class="derecha">	  
+		679.846.760
+			        
+    </td>, <td class="derecha">	  
+		695.220.880
+			        
+    </td>, <td class="nivel6 ">Total de pasivos	</td>, <td class="derecha">	  
+		900.042.114
+			        
+    </td>, <td class="derecha">	  
+		861.973.201
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Patrimonio [sinopsis] </strong> </td>, <td class="nivel6 ">Capital emitido	</td>, <td class="derecha">	  
+		155.567.354
+			        
+    </td>, <td class="derecha">	  
+		155.567.354
+			        
+    </td>, <td class="nivel6 ">Ganancias (pérdidas) acumuladas	</td>, <td class="derecha">	  
+		302.875.246
+			        
+    </td>, <td class="derecha">	  
+		308.088.569
+			        
+    </td>, <td class="nivel6 ">Prima de emisión	</td>, <td class="derecha">	  
+		164.064.038
+			        
+    </td>, <td class="derecha">	  
+		164.064.038
+			        
+    </td>, <td class="nivel6 ">Acciones propias en cartera	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otras participaciones en el patrimonio	</td>, <td class="derecha">	  
+		-5.965.550
+			        
+    </td>, <td class="derecha">	  
+		-5.965.550
+			        
+    </td>, <td class="nivel6 ">Otras reservas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Patrimonio atribuible a los propietarios de la controladora	</td>, <td class="derecha">	  
+		616.541.088
+			        
+    </td>, <td class="derecha">	  
+		621.754.411
+			        
+    </td>, <td class="nivel6 ">Participaciones no controladoras	</td>, <td class="derecha">	  
+		61.127.562
+			        
+    </td>, <td class="derecha">	  
+		62.497.867
+			        
+    </td>, <td class="nivel6 ">Patrimonio total	</td>, <td class="derecha">	  
+		677.668.650
+			        
+    </td>, <td class="derecha">	  
+		684.252.278
+			        
+    </td>, <td class="nivel4 ">Total de patrimonio y pasivos	</td>, <td class="derecha">	  
+		1.577.710.764
+			        
+    </td>, <td class="derecha">	  
+		1.546.225.479
+			        
+    </td>][<td class="nivel2 fondoOscuro" colspan="3"> <strong>Ganancia (pérdida) [sinopsis] </strong> </td>, <td class="nivel4 ">Ingresos de actividades ordinarias	</td>, <td class="derecha">	  
+		402.623.592
+			        
+    </td>, <td class="derecha">	  
+		382.885.743
+			        
+    </td>, <td class="nivel4 ">Otros ingresos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Disminución (aumento) en inventarios de productos terminados y en proceso	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros trabajos realizados por la entidad y capitalizados	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Materias primas y consumibles utilizados	</td>, <td class="derecha">	  
+		27.416.534
+			        
+    </td>, <td class="derecha">	  
+		29.162.856
+			        
+    </td>, <td class="nivel4 ">Gastos por beneficios a los empleados	</td>, <td class="derecha">	  
+		40.455.749
+			        
+    </td>, <td class="derecha">	  
+		38.187.964
+			        
+    </td>, <td class="nivel4 ">Gasto por depreciación y amortización	</td>, <td class="derecha">	  
+		64.704.889
+			        
+    </td>, <td class="derecha">	  
+		55.209.591
+			        
+    </td>, <td class="nivel4 ">Pérdidas por deterioro de valor (reversiones de pérdidas por deterioro de valor) reconocidas en el resultado del periodo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros gastos, por naturaleza	</td>, <td class="derecha">	  
+		87.474.313
+			        
+    </td>, <td class="derecha">	  
+		73.131.256
+			        
+    </td>, <td class="nivel4 ">Otras ganancias (pérdidas)	</td>, <td class="derecha">	  
+		1.326.676
+			        
+    </td>, <td class="derecha">	  
+		628.694
+			        
+    </td>, <td class="nivel4 ">Ganancias (pérdidas) de actividades operacionales	</td>, <td class="derecha">	  
+		183.898.783
+			        
+    </td>, <td class="derecha">	  
+		187.822.770
+			        
+    </td>, <td class="nivel4 ">Ganancias (pérdidas) que surgen de la baja en cuentas de activos financieros medidos al costo amortizado	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Ingresos financieros	</td>, <td class="derecha">	  
+		6.965.852
+			        
+    </td>, <td class="derecha">	  
+		8.291.012
+			        
+    </td>, <td class="nivel4 ">Costos financieros	</td>, <td class="derecha">	  
+		28.885.840
+			        
+    </td>, <td class="derecha">	  
+		24.170.380
+			        
+    </td>, <td class="nivel4 ">Participación en las ganancias (pérdidas) de asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Diferencias de cambio	</td>, <td class="derecha">	  
+		-2.130
+			        
+    </td>, <td class="derecha">	  
+		-26.013
+			        
+    </td>, <td class="nivel4 ">Resultados por unidades de reajuste	</td>, <td class="derecha">	  
+		-12.955.938
+			        
+    </td>, <td class="derecha">	  
+		-13.888.896
+			        
+    </td>, <td class="nivel4 ">Ganancias (pérdidas) que surgen de diferencias entre importes en libros anteriores y el valor razonable de activos financieros reclasificados como medidos al valor razonable	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida), antes de impuestos	</td>, <td class="derecha">	  
+		149.020.727
+			        
+    </td>, <td class="derecha">	  
+		158.028.493
+			        
+    </td>, <td class="nivel4 ">Gasto por impuestos a las ganancias	</td>, <td class="derecha">	  
+		29.311.608
+			        
+    </td>, <td class="derecha">	  
+		35.793.146
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida) procedente de operaciones continuadas	</td>, <td class="derecha">	  
+		119.709.119
+			        
+    </td>, <td class="derecha">	  
+		122.235.347
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida) procedente de operaciones discontinuadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida)	</td>, <td class="derecha">	  
+		119.709.119
+			        
+    </td>, <td class="derecha">	  
+		122.235.347
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Ganancia (pérdida), atribuible a [sinopsis] </strong> </td>, <td class="nivel4 ">Ganancia (pérdida), atribuible a los propietarios de la controladora	</td>, <td class="derecha">	  
+		116.675.534
+			        
+    </td>, <td class="derecha">	  
+		121.738.423
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida), atribuible a participaciones no controladoras	</td>, <td class="derecha">	  
+		3.033.585
+			        
+    </td>, <td class="derecha">	  
+		496.924
+			        
+    </td>, <td class="nivel4 ">Ganancia (pérdida)	</td>, <td class="derecha">	  
+		119.709.119
+			        
+    </td>, <td class="derecha">	  
+		122.235.347
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Ganancias por acción [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Ganancia por acción básica [sinopsis] </strong> </td>, <td class="nivel6 ">Ganancia (pérdida) por acción básica en operaciones continuadas	</td>, <td class="derecha">	  
+		0,0190679
+			        
+    </td>, <td class="derecha">	  
+		0,0198953
+			        
+    </td>, <td class="nivel6 ">Ganancia (pérdida) por acción básica en operaciones discontinuadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Ganancia (pérdida) por acción básica	</td>, <td class="derecha">	  
+		0,0190679
+			        
+    </td>, <td class="derecha">	  
+		0,0198953
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Ganancias por acción diluidas [sinopsis] </strong> </td>, <td class="nivel6 ">Ganancias (pérdida) diluida por acción procedente de operaciones continuadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Ganancias (pérdida) diluida por acción procedentes de operaciones discontinuadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Ganancias (pérdida) diluida por acción	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>][<td class="nivel2 ">Ganancia (pérdida)	</td>, <td class="derecha">	  
+		119.709.119
+			        
+    </td>, <td class="derecha">	  
+		122.235.347
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Otro resultado integral [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Componentes de otro resultado integral que no se reclasificarán al resultado del periodo, antes de impuestos [resumen] </strong> </td>, <td class="nivel6 ">Otro resultado integral, antes de impuestos, ganancias (pérdidas) de inversiones en instrumentos de patrimonio	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otro resultado integral, antes de impuestos, ganancias (pérdidas) por revaluación	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otro resultado integral, antes de impuestos, ganancias (pérdidas) actuariales por planes de beneficios definidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-480.845
+			        
+    </td>, <td class="nivel6 ">Otro resultado integral, antes de impuestos, ganancias (pérdidas) por nuevas mediciones de planes de beneficios definidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otro resultado integral, antes de impuestos, cambio en el valor razonable de pasivos financieros atribuible a cambios en el riesgo de crédito del pasivo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación que no se reclasificará al resultado del periodo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Total otro resultado integral que no se reclasificará al resultado del periodo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-480.845
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Componentes de otro resultado integral que se reclasificarán al resultado del periodo, antes de impuestos [resumen] </strong> </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Diferencias de cambio por conversión [sinopsis] </strong> </td>, <td class="nivel8 ">Ganancias (pérdidas) por diferencias de cambio de conversión, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Ajustes de reclasificación en diferencias de cambio de conversión, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otro resultado integral, antes de impuestos, diferencias de cambio por conversión	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Activos financieros disponibles para la venta [sinopsis] </strong> </td>, <td class="nivel8 ">Ganancias (pérdidas) por nuevas mediciones de activos financieros disponibles para la venta, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Ajustes de reclasificación, activos financieros disponibles para la venta, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otro resultado integral antes de impuestos, activos financieros disponibles para la venta	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Coberturas del flujo de efectivo [sinopsis] </strong> </td>, <td class="nivel8 ">Ganancias (pérdidas) por coberturas de flujos de efectivo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Ajustes de reclasificación en coberturas de flujos de efectivo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otro resultado integral, antes de impuestos, coberturas del flujo de efectivo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 fondoOscuro" colspan="3"> <strong>Coberturas de inversiones netas en negocios en el extranjero [resumen] </strong> </td>, <td class="nivel8 ">Ganancias (pérdidas) por coberturas de inversiones netas en negocios en el extranjero, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Ajustes de reclasificación por coberturas de inversiones netas en negocios en el extranjero, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel8 ">Otro resultado integral, antes de impuestos, coberturas de inversiones netas en negocios en el extranjero	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación que se reclasificará al resultado del periodo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Total otro resultado integral que se reclasificará al resultado del periodo, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros componentes de otro resultado integral, antes de impuestos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-480.845
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Impuestos a las ganancias relativos a componentes de otro resultado integral que no se reclasificará al resultado del periodo [resumen] </strong> </td>, <td class="nivel6 ">Impuesto a las ganancias relativos a inversiones en instrumentos de patrimonio de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relacionado con cambios en el superávit de revaluación de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relacionado con planes de beneficios definidos de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relativo a nuevas mediciones de planes de beneficios definidos de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relacionado con cambios en el valor razonable de pasivos financieros atribuibles a cambios en el riesgo de crédito del pasivo de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuestos a las ganancias acumulados relativos a componentes de otro resultado integral que no se reclasificarán al resultado del periodo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Impuestos a las ganancias relativos a componentes de otro resultado integral que se reclasificará al resultado del periodo [resumen] </strong> </td>, <td class="nivel6 ">Impuesto a las ganancias relacionado con diferencias de cambio de conversión de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relacionadas con activos financieros disponibles para la venta de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relacionado con coberturas de flujos de efectivo de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuesto a las ganancias relativos a coberturas de inversiones netas en negocios en el extranjero de otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Impuestos a las ganancias acumulados relativos a componentes de otro resultado integral que se reclasificarán al resultado del periodo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otro resultado integral	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-480.845
+			        
+    </td>, <td class="nivel2 ">Resultado integral total	</td>, <td class="derecha">	  
+		119.709.119
+			        
+    </td>, <td class="derecha">	  
+		121.754.502
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Resultado integral atribuible a [sinopsis] </strong> </td>, <td class="nivel4 ">Resultado integral atribuible a los propietarios de la controladora	</td>, <td class="derecha">	  
+		116.675.534
+			        
+    </td>, <td class="derecha">	  
+		121.269.559
+			        
+    </td>, <td class="nivel4 ">Resultado integral atribuible a participaciones no controladoras	</td>, <td class="derecha">	  
+		3.033.585
+			        
+    </td>, <td class="derecha">	  
+		484.943
+			        
+    </td>][<td class="nivel2 fondoOscuro" colspan="3"> <strong>Flujos de efectivo procedentes de (utilizados en) actividades de operación [sinopsis] </strong> </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Clases de cobros por actividades de operación [sinopsis] </strong> </td>, <td class="nivel6 ">Cobros procedentes de las ventas de bienes y prestación de servicios	</td>, <td class="derecha">	  
+		463.107.945
+			        
+    </td>, <td class="derecha">	  
+		447.904.655
+			        
+    </td>, <td class="nivel6 ">Cobros procedentes de regalías, cuotas, comisiones y otros ingresos de actividades ordinarias	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Cobros derivados de contratos mantenidos para intermediación o para negociar con ellos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Cobros procedentes de primas y prestaciones, anualidades y otros beneficios de pólizas suscritas	</td>, <td class="derecha">	  
+		1.602.264
+			        
+    </td>, <td class="derecha">	  
+		218.176
+			        
+    </td>, <td class="nivel6 ">Cobros derivados de arrendamiento y posterior venta de esos activos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otros cobros por actividades de operación	</td>, <td class="derecha">	  
+		2.355.859
+			        
+    </td>, <td class="derecha">	  
+		3.363.931
+			        
+    </td>, <td class="nivel4 fondoOscuro" colspan="3"> <strong>Clases de pagos [sinopsis] </strong> </td>, <td class="nivel6 ">Pagos a proveedores por el suministro de bienes y servicios	</td>, <td class="derecha">	  
+		128.119.207
+			        
+    </td>, <td class="derecha">	  
+		121.106.985
+			        
+    </td>, <td class="nivel6 ">Pagos procedentes de contratos mantenidos para intermediación o para negociar	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Pagos a y por cuenta de los empleados	</td>, <td class="derecha">	  
+		40.552.722
+			        
+    </td>, <td class="derecha">	  
+		40.480.725
+			        
+    </td>, <td class="nivel6 ">Pagos por primas y prestaciones, anualidades y otras obligaciones derivadas de las pólizas suscritas	</td>, <td class="derecha">	  
+		475.155
+			        
+    </td>, <td class="derecha">	  
+		2.348.327
+			        
+    </td>, <td class="nivel6 ">Pagos por fabricar o adquirir activos mantenidos para arrendar a otros y posteriormente para vender	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel6 ">Otros pagos por actividades de operación	</td>, <td class="derecha">	  
+		42.232.938
+			        
+    </td>, <td class="derecha">	  
+		42.893.387
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo netos procedentes de (utilizados en) la operación	</td>, <td class="derecha">	  
+		255.686.046
+			        
+    </td>, <td class="derecha">	  
+		244.657.338
+			        
+    </td>, <td class="nivel4 ">Dividendos pagados	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Dividendos recibidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Intereses pagados	</td>, <td class="derecha">	  
+		20.846.867
+			        
+    </td>, <td class="derecha">	  
+		14.858.268
+			        
+    </td>, <td class="nivel4 ">Intereses recibidos	</td>, <td class="derecha">	  
+		2.684.173
+			        
+    </td>, <td class="derecha">	  
+		3.402.516
+			        
+    </td>, <td class="nivel4 ">Impuestos a las ganancias pagados (reembolsados)	</td>, <td class="derecha">	  
+		31.214.131
+			        
+    </td>, <td class="derecha">	  
+		27.844.087
+			        
+    </td>, <td class="nivel4 ">Otras entradas (salidas) de efectivo	</td>, <td class="derecha">	  
+		-1.964.303
+			        
+    </td>, <td class="derecha">	  
+		-1.938.561
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo netos procedentes de (utilizados en) actividades de operación	</td>, <td class="derecha">	  
+		204.344.918
+			        
+    </td>, <td class="derecha">	  
+		203.418.938
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Flujos de efectivo procedentes de (utilizados en) actividades de inversión [sinopsis] </strong> </td>, <td class="nivel4 ">Flujos de efectivo procedentes de la pérdida de control de subsidiarias u otros negocios	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo utilizados para obtener el control de subsidiarias u otros negocios	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo utilizados en la compra de participaciones no controladoras	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros cobros por la venta de patrimonio o instrumentos de deuda de otras entidades	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros pagos para adquirir patrimonio o instrumentos de deuda de otras entidades	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros cobros por la venta de participaciones en negocios conjuntos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otros pagos para adquirir participaciones en negocios conjuntos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Préstamos a entidades relacionadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de la venta de propiedades, planta y equipo	</td>, <td class="derecha">	  
+		25.502
+			        
+    </td>, <td class="derecha">	  
+		366.659
+			        
+    </td>, <td class="nivel4 ">Compras de propiedades, planta y equipo	</td>, <td class="derecha">	  
+		116.823.900
+			        
+    </td>, <td class="derecha">	  
+		97.590.330
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de ventas de activos intangibles	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Compras de activos intangibles	</td>, <td class="derecha">	  
+		191.274
+			        
+    </td>, <td class="derecha">	  
+		345.465
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de otros activos a largo plazo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Compras de otros activos a largo plazo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de subvenciones del gobierno	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Anticipos de efectivo y préstamos concedidos a terceros	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Cobros procedentes del reembolso de anticipos y préstamos concedidos a terceros	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Pagos derivados de contratos de futuro, a término, de opciones y de permuta financiera	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Cobros procedentes de contratos de futuro, a término, de opciones y de permuta financiera	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Cobros a entidades relacionadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Dividendos recibidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Intereses pagados	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Intereses recibidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Impuestos a las ganancias pagados (reembolsados)	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo procedentes de la venta de participaciones no controladoras	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otras entradas (salidas) de efectivo	</td>, <td class="derecha">	  
+		-2.039.585
+			        
+    </td>, <td class="derecha">	  
+		-7.800.063
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo netos procedentes de (utilizados en) actividades de inversión	</td>, <td class="derecha">	  
+		-119.029.257
+			        
+    </td>, <td class="derecha">	  
+		-105.369.199
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Flujos de efectivo procedentes de (utilizados en) actividades de financiación [sinopsis] </strong> </td>, <td class="nivel4 ">Cobros por cambios en las participaciones en la propiedad de subsidiarias que no resulta en una pérdida de control	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Pagos por cambios en las participaciones en la propiedad en subsidiarias que no resulta en una pérdida de control	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de la emisión de acciones	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de la emisión de otros instrumentos de patrimonio	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Pagos por adquirir o rescatar las acciones de la entidad	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Pagos por otras participaciones en el patrimonio	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de préstamos	</td>, <td class="derecha">	  
+		50.933.592
+			        
+    </td>, <td class="derecha">	  
+		138.973.863
+			        
+    </td>, <td class="nivel6 ">Importes procedentes de préstamos de largo plazo	</td>, <td class="derecha">	  
+		50.933.592
+			        
+    </td>, <td class="derecha">	  
+		135.805.272
+			        
+    </td>, <td class="nivel6 ">Importes procedentes de préstamos de corto plazo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		3.168.591
+			        
+    </td>, <td class="nivel4 ">Préstamos de entidades relacionadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Reembolsos de préstamos	</td>, <td class="derecha">	  
+		43.700.509
+			        
+    </td>, <td class="derecha">	  
+		90.191.909
+			        
+    </td>, <td class="nivel4 ">Pagos de pasivos por arrendamientos financieros	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Pagos de préstamos a entidades relacionadas	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Importes procedentes de subvenciones del gobierno	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Dividendos pagados	</td>, <td class="derecha">	  
+		89.329.355
+			        
+    </td>, <td class="derecha">	  
+		115.387.450
+			        
+    </td>, <td class="nivel4 ">Intereses recibidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Intereses pagados	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Dividendos recibidos	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Impuestos a las ganancias pagados (reembolsados)	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel4 ">Otras entradas (salidas) de efectivo	</td>, <td class="derecha">	  
+		-204.845
+			        
+    </td>, <td class="derecha">	  
+		-851.305
+			        
+    </td>, <td class="nivel4 ">Flujos de efectivo netos procedentes de (utilizados en) actividades de financiación	</td>, <td class="derecha">	  
+		-82.301.117
+			        
+    </td>, <td class="derecha">	  
+		-67.456.801
+			        
+    </td>, <td class="nivel2 ">Incremento (disminución) neto de efectivo y equivalentes al efectivo, antes del efecto de los cambios en la tasa de cambio	</td>, <td class="derecha">	  
+		3.014.544
+			        
+    </td>, <td class="derecha">	  
+		30.592.938
+			        
+    </td>, <td class="nivel2 fondoOscuro" colspan="3"> <strong>Efectos de la variación en la tasa de cambio sobre el efectivo y equivalentes al efectivo [sinopsis] </strong> </td>, <td class="nivel4 ">Efectos de la variación en la tasa de cambio sobre el efectivo y equivalentes al efectivo	</td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="derecha">	  
+		-
+			        
+    </td>, <td class="nivel2 ">Incremento (disminución) neto de efectivo y equivalentes al efectivo	</td>, <td class="derecha">	  
+		3.014.544
+			        
+    </td>, <td class="derecha">	  
+		30.592.938
+			        
+    </td>, <td class="nivel2 ">Efectivo y equivalentes al efectivo al principio del periodo	</td>, <td class="derecha">	  
+		35.644.437
+			        
+    </td>, <td class="derecha">	  
+		5.051.499
+			        
+    </td>, <td class="nivel2 ">Efectivo y equivalentes al efectivo al final del periodo	</td>, <td class="derecha">	  
+		38.658.981
+			        
+    </td>, <td class="derecha">	  
+		35.644.437
+			        
+    </td>]
