@@ -14,7 +14,7 @@ rut_op = [61808000,99542570,99540870,
 76000739,
 96579800]
 
-for rut in rut_op[1:2]:
+for rut in rut_op:
   for x in  range(6):
     anio = x + 2008
     os.system("parser.py 12 " + str(anio)+" "+str(rut))
