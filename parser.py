@@ -60,23 +60,24 @@ def procesar(table, nombre):
                         sirve = True
         workbook.close()
 def main(argv):
-        if(len(argv)!=2):
-                print "se deben entregar 2 argumentos enteros, un mes y un anio"
+        if(len(argv)!=3):
+                print "se deben entregar 3 argumentos enteros, un mes y un anio"
                 return
-        if(not isInt(argv[0]) or not isInt(argv[1])):
+        if(not isInt(argv[0]) or not isInt(argv[1]) or not isInt(argv[2])):
                 print "Ambos argumentos deben ser números enteros"
                 return
         par_m=argv[0]
         par_a=argv[1]
+        par_rut=argv[2]
 
-        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
+        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=00000000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
         url = url.replace("aa=1111", "aa="+par_a)
         url = url.replace("mm=22", "mm="+par_m)
+        url = url.replace("rut=00000000", "rut="+par_rut)
         #Obtencion de datos del archivo(anio, mes y rut operador)
         anio = par_a
         mes = par_m
-        ini = url.find("rut=")+4
-        rut = url[ini:ini+8]
+        rut = par_rut
         #nombre_archivo = dict_ruts_op[int(rut)]+"_"+mes+"_"+anios
 
         page = urllib2.urlopen(url)
