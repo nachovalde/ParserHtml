@@ -68,8 +68,10 @@ def main(argv):
                 return
         par_m=int(argv[0])
         par_a=int(argv[1])
-        print str(par_m)+" "+str(par_a)
-        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=12&aa=2013&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
+
+        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
+        url = url.replace("aa=1111", "aa="+str(par_a))
+        url = url.replace("mm=22", "mm="+str(par_m))
         #Obtencion de datos del archivo(anio, mes y rut operador)
         ini = url.find("aa=")+3
         anio = url[ini:ini+4]
@@ -82,15 +84,19 @@ def main(argv):
         page = urllib2.urlopen(url)
         soup=BeautifulSoup(page)
         soup_tables=soup.findAll("table",limit=4)
-        c=0
 
-        for table in soup_tables:
-                c+=1
-                nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
-                print nombre_archivo
-                procesar(table, nombre_archivo)
-                if(c==2):
-                        break
+        #Validar la existencia de informacion en dicho url
+        if len(soup.find_all(text=re.compile("No existe informa"))) == 0:
+                c=0
+                for table in soup_tables:
+                        c+=1
+                        nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
+                        print nombre_archivo
+                        procesar(table, nombre_archivo)
+                        if(c==2):
+                                break
+        else:
+                print "No se encontro informacion"
 
 
 if __name__ == "__main__":
