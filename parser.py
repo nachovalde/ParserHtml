@@ -66,17 +66,15 @@ def main(argv):
         if(not isInt(argv[0]) or not isInt(argv[1])):
                 print "Ambos argumentos deben ser números enteros"
                 return
-        par_m=int(argv[0])
-        par_a=int(argv[1])
+        par_m=argv[0]
+        par_a=argv[1]
 
         url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
-        url = url.replace("aa=1111", "aa="+str(par_a))
-        url = url.replace("mm=22", "mm="+str(par_m))
+        url = url.replace("aa=1111", "aa="+par_a)
+        url = url.replace("mm=22", "mm="+par_m)
         #Obtencion de datos del archivo(anio, mes y rut operador)
-        ini = url.find("aa=")+3
-        anio = url[ini:ini+4]
-        ini = url.find("mm=")+3
-        mes = url[ini:ini+2]
+        anio = par_a
+        mes = par_m
         ini = url.find("rut=")+4
         rut = url[ini:ini+8]
         #nombre_archivo = dict_ruts_op[int(rut)]+"_"+mes+"_"+anios
