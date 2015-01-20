@@ -25,6 +25,12 @@ dict_ruts_op={61808000: "aguas_andinas",
 76000739: "esval",
 96579800: "essal"}
 dict_informe = {1 : "situacion_financiera",2 : "resultado"}
+def isInt(s):
+        try:
+                int(s)
+                return True
+        except ValueError:
+                return False
 
 def procesar(table, nombre):
         workbook=xlsxwriter.Workbook(nombre+".xlsx")
@@ -54,6 +60,15 @@ def procesar(table, nombre):
                         sirve = True
         workbook.close()
 def main(argv):
+        if(len(argv)!=2):
+                print "se deben entregar 2 argumentos enteros, un mes y un anio"
+                return
+        if(not isInt(argv[0]) or not isInt(argv[1])):
+                print "Ambos argumentos deben ser números enteros"
+                return
+        par_m=int(argv[0])
+        par_a=int(argv[1])
+        print str(par_m)+" "+str(par_a)
         url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=61808000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=12&aa=2013&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
         #Obtencion de datos del archivo(anio, mes y rut operador)
         ini = url.find("aa=")+3
@@ -68,6 +83,7 @@ def main(argv):
         soup=BeautifulSoup(page)
         soup_tables=soup.findAll("table",limit=4)
         c=0
+
         for table in soup_tables:
                 c+=1
                 nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
