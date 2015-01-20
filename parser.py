@@ -86,6 +86,7 @@ def main(argv):
 
         #Validar la existencia de informacion en dicho url
         if len(soup.find_all(text=re.compile("No existe informa"))) == 0:
+                print "Consolidado"
                 c=0
                 for table in soup_tables:
                         c+=1
@@ -95,7 +96,22 @@ def main(argv):
                         if(c==2):
                                 break
         else:
-                print "No se encontro informacion"
+                url = url.replace("tipo=C", "tipo=I")
+                page = urllib2.urlopen(url)
+                soup=BeautifulSoup(page)
+                soup_tables=soup.findAll("table",limit=4)
+                if len(soup.find_all(text=re.compile("No existe informa"))) == 0:
+                        print "Individual"
+                        c=0
+                        for table in soup_tables:
+                                c+=1
+                                nombre_archivo = dict_ruts_op[int(rut)]+"_"+dict_informe[c]+"_"+mes+"_"+anio
+                                print nombre_archivo
+                                procesar(table, nombre_archivo)
+                                if(c==2):
+                                        break
+                else:
+                        print "No se encontro informacion"
 
 
 if __name__ == "__main__":
