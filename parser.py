@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 from bs4 import BeautifulSoup
 import urllib2
@@ -10,7 +11,7 @@ tdStart,tdEnd = makeHTMLTags("td")
 td = tdStart + SkipTo(tdEnd).setResultsName("data") + tdEnd
 
 dict_ruts_op={61808000: "aguas_andinas",
-99542570: "aguas_chañar",
+99542570: "aguas_chañar".decode("utf-8"),
 99540870: "aguas_antofagasta",
 99541380: "aguas_valle",
 99501280: "aguas_patagonia",
