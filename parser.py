@@ -34,7 +34,7 @@ def isInt(s):
                 return False
 
 def procesar(table, nombre):
-        workbook=xlsxwriter.Workbook(nombre+".xlsx")
+        workbook=xlsxwriter.Workbook("Archivos\\"+nombre+".xlsx")
         worksheet=workbook.add_worksheet()
         worksheet.write(0,0,"nombre")
         worksheet.write(0,1,"valor")
