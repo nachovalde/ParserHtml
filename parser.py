@@ -24,7 +24,10 @@ dict_ruts_op={61808000: "aguas_andinas",
 76833300: "essbio",
 89900400: "esval",
 76000739: "esval",
-96579800: "essal"}
+96579800: "essal",
+99561030: "aguas_araucania",
+99561040: "aguas_magallanes",
+99561010: "aguas_altiplano"}
 dict_informe = {1 : "situacion_financiera",2 : "resultado"}
 def isInt(s):
         try:
@@ -71,7 +74,7 @@ def main(argv):
         par_a=argv[1]
         par_rut=argv[2]
 
-        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=00000000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=C&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
+        url="http://www.svs.cl/institucional/mercados/entidad.php?auth=&send=&mercado=V&rut=00000000&rut_inc=&grupo=0&tipoentidad=RVEMI&vig=VI&row=AABbBQABwAAAA5TAAm&mm=22&aa=1111&tipo=I&orig=lista&control=svs&tipo_norma=IFRS&pestania=3"
         url = url.replace("aa=1111", "aa="+par_a)
         url = url.replace("mm=22", "mm="+par_m)
         url = url.replace("rut=00000000", "rut="+par_rut)
@@ -87,7 +90,7 @@ def main(argv):
 
         #Validar la existencia de informacion en dicho url
         if len(soup.find_all(text=re.compile("No existe informa"))) == 0:
-                print "Consolidado"
+                print "Individual"
                 c=0
                 for table in soup_tables:
                         c+=1
@@ -97,12 +100,12 @@ def main(argv):
                         if(c==2):
                                 break
         else:
-                url = url.replace("tipo=C", "tipo=I")
+                url = url.replace("tipo=I", "tipo=C")
                 page = urllib2.urlopen(url)
                 soup=BeautifulSoup(page)
                 soup_tables=soup.findAll("table",limit=4)
                 if len(soup.find_all(text=re.compile("No existe informa"))) == 0:
-                        print "Individual"
+                        print "Consolidado"
                         c=0
                         for table in soup_tables:
                                 c+=1
